@@ -1,4 +1,5 @@
 .idea/
+*.bak
 terraform.tfstate
 terraform.tfstate.backup
 playbooks/*.retry
